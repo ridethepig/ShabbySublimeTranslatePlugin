@@ -7,8 +7,8 @@ import sublime_plugin
 
 base_url = 'http://dict.youdao.com/w/eng/'
 
-appid = '20200228000389882'  # 填写你的appid
-secretKey = '8dvvF7L6FjdAZl5dudCF'  # 填写你的密钥
+appid = ''  # 填写你的appid
+secretKey = ''  # 填写你的密钥
 def buildUrl(text):
 	myurl = 'http://api.fanyi.baidu.com/api/trans/vip/translate'
 	fromLang = 'auto'   #原文语种
