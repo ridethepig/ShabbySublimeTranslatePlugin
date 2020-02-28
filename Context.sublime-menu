@@ -1,0 +1,11 @@
+[
+	{ 
+		"caption": "-", 
+		"id": "file"
+	},
+	{
+		"caption": "Translator",
+		"command": "translate",
+		"args": {}
+	}
+]
